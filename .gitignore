@@ -1,0 +1,12 @@
+   # Ignorar archivos de desarrollo local
+   .env
+   .idea/
+   .vscode/
+   db.sqlite3
+   staticfiles/
+   # Ignorar archivos de compilación
+   *.pyc
+   *.pyo
+   *.pycache/
+   # Ignorar archivos de migración de Django
+   migrations/
