@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'corsheaders',
     'arbitros',
     'equipos',
+    'puntos',
 
 ]
 
