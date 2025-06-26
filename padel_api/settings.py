@@ -49,6 +49,7 @@ INSTALLED_APPS = [
     'arbitros',
     'equipos',
     'puntos',
+    'endgame_point',
 
 ]
 

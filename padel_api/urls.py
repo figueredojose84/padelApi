@@ -22,4 +22,5 @@ urlpatterns = [
     path('arbitros/', include('arbitros.url')),  
     path('equipos/', include('equipos.url')),
     path('puntos/', include('puntos.url')),
+    path('endgame_point/', include('endgame_point.url')),
 ]
